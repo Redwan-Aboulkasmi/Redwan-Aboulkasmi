@@ -2,7 +2,6 @@
 - 👀 I’m interested in anything related to code
 - 🌱 I’m currently learning python and C.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Redwan_Aboulkasmi@hotmail.com
 
 <!---
 Redwan-Aboulkasmi/Redwan-Aboulkasmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
